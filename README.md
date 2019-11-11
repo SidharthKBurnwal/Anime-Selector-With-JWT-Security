@@ -1,6 +1,6 @@
 Verify a user with proper JWT Token.
 
-http://localhost:8080/authenticate : Post
+Post : http://localhost:8080/authenticate
 
 Body : 
 
