@@ -1,5 +1,7 @@
 Verify a user with proper JWT Token.
 
+To test it, use postman and hit as given below.
+
 Post : http://localhost:8080/authenticate
 
 Body : 
